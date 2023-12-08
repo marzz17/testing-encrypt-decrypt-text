@@ -1,1 +1,5 @@
-# testing-encrypt-decrypt-text
+# TO RUN
+
+# yarn or npm install
+
+# yarn dev or npm run dev

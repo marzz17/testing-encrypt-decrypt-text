@@ -1,0 +1,13 @@
+{
+  "name": "encrypt-decrypt-text",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jelmar Cambongga",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  },
+  	"scripts": {
+		"dev": "nodemon index.js"
+	}
+}
